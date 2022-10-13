@@ -1,0 +1,66 @@
+/* Use Just for headlines */
+.typographyHeadline 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTitle 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographySubtitle 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBody 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographySmallBody 
+ {
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
